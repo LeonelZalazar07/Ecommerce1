@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
 [![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Anon es un sitio web de comercio electrónico totalmente receptivo, compatibilidad máxima en todos los dispositivos móviles, creado con HTML, CSS y JavaScript.
 
 ## Demo
 
